@@ -1,0 +1,11 @@
+nombre = input ("¿Cual es su nombre?")
+print ("Bienvenido", nombre)
+edad =int( input("¿Cual es tu edad?"))
+print(edad, "es un numero de la suerte")
+dia = input("¿Que dia naciste?")
+mes = input ("¿Cual es tu mes de nacimiento?")
+print (nombre, "naciste el","¿", dia  +  mes, "?" )
+num1 = float( input("digita un numero para sumar"))
+num2 = float(input("digita el otro numero"))
+suma = num1 + num2 
+print( nombre, "el resultado es...", suma )
